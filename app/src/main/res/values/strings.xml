@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Smart GreenHouse</string>
+    <string name="FCM_PREF">com.example.deepak.myfirstfirebaseproject.fcm_pref</string>
+    <string name="FCM_TOKEN">com.example.deepak.myfirstfirebaseproject.fcm_token</string>
+    <string name="api_call_fail">API Call Fail</string>
+    <string name="token_update_unsuccessful">Token update fail</string>
+    <string name="token_update_successful">Token updated</string>
+    <string name="blank_fields">Please fill all the fields</string>
+    <string name="registration_success">Registration Successful</string>
+    <string name="unregistered_admin">Not registered with admin</string>
+    <string name="sql_fail">Sql query fail,try again</string>
+    <string name="mobile_already_registered">Username or Mobile already registered</string>
+    <string name="login_success">Login Success</string>
+    <string name="user_not_exist">User does not exist</string>
+    <string name="pswrd_unmatch">Password doesn\'t match</string>
+    <string name="logout_btn">Logout</string>
+    <string name="record_not_found">No Record found</string>
+</resources>
